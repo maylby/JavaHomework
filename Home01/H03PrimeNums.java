@@ -25,5 +25,5 @@ https://gb.ru/lessons/414471/homework
 package JavaHomework.Home01;
 
 public class H03PrimeNums {
-    
+
 }
